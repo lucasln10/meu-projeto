@@ -26,7 +26,7 @@ O projeto está conectado a um banco de dados **PostgreSQL** para garantir uma e
 ## 🚀 Como Rodar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-repositorio.git
+   git clone https://github.com/lucasln10/meu-projeto.git
    ```
 2. Configure o banco de dados PostgreSQL.
 3. Atualize as credenciais no `application.properties`.
